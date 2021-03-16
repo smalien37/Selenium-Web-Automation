@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression(failed)">
+    <classes>
+      <class name="testcase.master_testcase">
+        <methods>
+          <include name="campusPAGE_Test"/>
+          <include name="languageLearningPAGE_Test"/>
+          <include name="enterprisePAGE_Test"/>
+          <include name="filterAccessTest"/>
+          <include name="formFillTest"/>
+          <include name="driverexit"/>
+          <include name="explore_Web_Development_Page_Test"/>
+          <include name="driverconfig"/>
+          <include name="setTestResult"/>
+          <include name="totalCountTset"/>
+        </methods>
+      </class> <!-- testcase.master_testcase -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-10T14:36:19 IST" name="Suite" finished-at="2020-07-10T14:40:38 IST" duration-ms="258486">
+    <groups>
+    </groups>
+    <test started-at="2020-07-10T14:36:19 IST" name="Regression" finished-at="2020-07-10T14:40:38 IST" duration-ms="258486">
+      <class name="testcase.master_testcase">
+        <test-method is-config="true" signature="driverconfig()[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:36:19 IST" name="driverconfig" finished-at="2020-07-10T14:37:07 IST" duration-ms="47850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverconfig -->
+        <test-method signature="explore_Web_Development_Page_Test()[pri:1, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:37:07 IST" name="explore_Web_Development_Page_Test" finished-at="2020-07-10T14:37:49 IST" duration-ms="41919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explore_Web_Development_Page_Test -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:37:49 IST" name="setTestResult" finished-at="2020-07-10T14:37:49 IST" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=explore_Web_Development_Page_Test status=SUCCESS method=master_testcase.explore_Web_Development_Page_Test()[pri:1, instance:testcase.master_testcase@5f058f00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method signature="filterAccessTest()[pri:2, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:37:49 IST" name="filterAccessTest" finished-at="2020-07-10T14:38:49 IST" duration-ms="59696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterAccessTest -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:38:49 IST" name="setTestResult" finished-at="2020-07-10T14:38:49 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=filterAccessTest status=SUCCESS method=master_testcase.filterAccessTest()[pri:2, instance:testcase.master_testcase@5f058f00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method signature="enterprisePAGE_Test()[pri:3, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:38:49 IST" name="enterprisePAGE_Test" finished-at="2020-07-10T14:39:05 IST" duration-ms="16340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterprisePAGE_Test -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:39:05 IST" name="setTestResult" finished-at="2020-07-10T14:39:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enterprisePAGE_Test status=SUCCESS method=master_testcase.enterprisePAGE_Test()[pri:3, instance:testcase.master_testcase@5f058f00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method signature="campusPAGE_Test()[pri:4, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:39:05 IST" name="campusPAGE_Test" finished-at="2020-07-10T14:39:26 IST" duration-ms="21172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campusPAGE_Test -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:39:26 IST" name="setTestResult" finished-at="2020-07-10T14:39:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=campusPAGE_Test status=SUCCESS method=master_testcase.campusPAGE_Test()[pri:4, instance:testcase.master_testcase@5f058f00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method signature="formFillTest()[pri:5, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:39:26 IST" name="formFillTest" finished-at="2020-07-10T14:40:04 IST" duration-ms="37394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formFillTest -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:40:04 IST" name="setTestResult" finished-at="2020-07-10T14:40:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=formFillTest status=SUCCESS method=master_testcase.formFillTest()[pri:5, instance:testcase.master_testcase@5f058f00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method signature="languageLearningPAGE_Test()[pri:6, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:40:04 IST" name="languageLearningPAGE_Test" finished-at="2020-07-10T14:40:17 IST" duration-ms="13475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- languageLearningPAGE_Test -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:40:17 IST" name="setTestResult" finished-at="2020-07-10T14:40:17 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=languageLearningPAGE_Test status=SUCCESS method=master_testcase.languageLearningPAGE_Test()[pri:6, instance:testcase.master_testcase@5f058f00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method signature="totalCountTset()[pri:7, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:40:17 IST" name="totalCountTset" finished-at="2020-07-10T14:40:31 IST" duration-ms="14398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalCountTset -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:40:31 IST" name="setTestResult" finished-at="2020-07-10T14:40:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=totalCountTset status=SUCCESS method=master_testcase.totalCountTset()[pri:7, instance:testcase.master_testcase@5f058f00] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method is-config="true" signature="driverexit()[pri:0, instance:testcase.master_testcase@5f058f00]" started-at="2020-07-10T14:40:31 IST" name="driverexit" finished-at="2020-07-10T14:40:38 IST" duration-ms="6103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverexit -->
+      </class> <!-- testcase.master_testcase -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite -->
+</testng-results>
